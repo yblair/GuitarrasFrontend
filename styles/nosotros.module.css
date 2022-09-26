@@ -1,0 +1,11 @@
+.contenido{
+    display: grid;
+    gap: 4rem;
+    margin: 10rem;
+}
+@media (min-width:768px){
+    .contenido{
+       
+        align-items: center;
+    }
+}

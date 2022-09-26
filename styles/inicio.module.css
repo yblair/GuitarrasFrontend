@@ -1,0 +1,8 @@
+.imagen{
+    background-image: linear-gradient(to right, rgb(255, 250, 250),
+     rgba(255, 255, 255, 0.185)), url(../public/img/slash.jpg);
+     background-size: cover;
+     background-position: 50%;
+     padding: 30rem;
+     margin: 5rem;
+}
